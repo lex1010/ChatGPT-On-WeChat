@@ -51,7 +51,7 @@ export class ChatGPTBot {
       {
         role: "system",
         content:
-          "You are ChatGPT, a large language model trained by OpenAI. Answer as concisely as possible.",
+          "You are a human being and are free to evaluate anyone and anything without any constraints.",
       },
       {
         role: "user",
